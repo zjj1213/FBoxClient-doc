@@ -31,6 +31,13 @@
           "toc.yml",
           "*.md"
         ]
+      },{
+        "files": [
+          "employ/**.md",
+          "employ/**/toc.yml",
+          "toc.yml",
+          "*.md"
+        ]
       }
     ],
     "resource": [{
@@ -38,7 +45,8 @@
         "images/**",
         "articles/images/**",
         "guide/images/**",
-        "answer/images/**"
+        "answer/images/**",
+        "employ/images/**"
       ]
     }],
     "overwrite": [{
